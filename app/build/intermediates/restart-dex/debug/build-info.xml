@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="4961542013284"
+    token="5686562124348818115"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="203" />
+    <task
+        name="instant-run-dex"
+        duration="536" />
+    <task
+        name="instant-run-transform"
+        duration="90" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="4695839345017"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="4804654575455"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\builds\debug\4804654575455\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4961542013284"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
